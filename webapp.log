@@ -1,0 +1,6 @@
+2023/07/28 14:39:17 main.go:15: test
+2023/07/28 15:41:11 users.go:33: sql: converting argument $1 type: unsupported type func() uuid.UUID, a func
+2023/07/28 15:41:57 users.go:33: table users has no column named create_at
+2023/07/28 20:20:06 todos.go:23: table todos has no column named user_id
+2023/07/28 20:51:30 todos.go:23: table todos has no column named user_id
+2023/07/28 21:48:21 todos.go:70: near "from": syntax error
